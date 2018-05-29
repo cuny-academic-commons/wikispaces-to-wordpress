@@ -1,0 +1,1 @@
+The converter script should create .txt files in this directory.

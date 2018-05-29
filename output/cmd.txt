@@ -1,0 +1,3 @@
+wp post create ./output/0.txt --post_type=page --post_status=publish --post_title="ALL_SKAT_PASSED"
+wp post create ./output/1.txt --post_type=page --post_status=publish --post_title="Age"
+wp post create ./output/2.txt --post_type=page --post_status=publish --post_title="Application Data"
